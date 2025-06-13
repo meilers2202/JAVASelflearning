@@ -17,5 +17,7 @@ Open the XAMPP Control Panel and start both the Apache and MySQL services there.
 1. Navigate in your web browser to: http://localhost/phpmyadmin  
 2. On the Left side go to New and Create a new database named zahlensystem2.  
 3. Select the zahlensystem2 database and create a table inside it named user.  
-4. Start the Application  
-5. Run the Java application zahlensystem2.java.  
+4. Start your IDE (standard VSCode)
+5. Install Extension Pack for Java
+6. Rightclick the zahlensystem2.java 
+7. Run it
